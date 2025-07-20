@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class CinZodyagiHesaplama {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        System.out.print("Doğum Yılınızı Giriniz: ");
+        System.out.print("Doğum Yılınızı Giriniz : ");
         int dogumYili = scanner.nextInt();
 
         int kalan = dogumYili % 12;
