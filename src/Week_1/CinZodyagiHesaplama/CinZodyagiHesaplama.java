@@ -9,7 +9,7 @@ public class CinZodyagiHesaplama {
         int dogumYili = scanner.nextInt();
 
         int kalan = dogumYili % 12;
-        String burc = "";
+        String burc;
 
         burc = switch (kalan) {
             case 0 -> "Maymun";
