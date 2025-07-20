@@ -1,6 +1,5 @@
 package Week_1.UcakBiletiFH;
 
-import javax.sound.midi.Soundbank;
 import java.util.Scanner;
 
 public class UcakBiletiFH {
