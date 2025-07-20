@@ -12,7 +12,7 @@ public class CinZodyagiHesaplama {
         String burc;
 
         burc = switch (kalan) {
-            case 0 -> "Maymun";
+            case 0 -> "Maymunn";
             case 1 -> "Horoz";
             case 2 -> "Köpek";
             case 3 -> "Domuz";

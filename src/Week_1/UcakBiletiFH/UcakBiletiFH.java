@@ -18,7 +18,7 @@ public class UcakBiletiFH {
         int yolculuk_tipi = scanner.nextInt();
 
         if (mesafe <= 0 || yas <= 0 || (yolculuk_tipi != 1 && yolculuk_tipi != 2)) {
-            System.out.println("Hatalı Veri Girdiniz !");
+            System.out.println("Hatalı Veri Girdiniz!");
         } else {
             double birimFiyat = 0.10;
             double normalTutar = mesafe * birimFiyat;

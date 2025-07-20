@@ -14,7 +14,7 @@ public class Manav {
         double patlicanFiyat = 5.00;
 
 
-        System.out.print("Armut Kaç Kilo? : ");
+        System.out.print("Armut Kaç Kilo ? : ");
         double armutKg = scanner.nextDouble();
 
         System.out.print("Elma Kaç Kilo? : ");

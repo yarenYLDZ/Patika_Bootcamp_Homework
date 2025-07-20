@@ -6,7 +6,7 @@ public class ArtikYilHesaplama {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
 
-        System.out.print("Yıl Giriniz: ");
+        System.out.print("Yıl Giriniz : ");
         int yil = scanner.nextInt();
 
         boolean artikYilMi;

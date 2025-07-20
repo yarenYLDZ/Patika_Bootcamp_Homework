@@ -10,7 +10,7 @@ public class VucutKitleEndeksi {
         double boyCm = scanner.nextDouble();
         double boy = boyCm/100; // kisinin girdigi cm boy degerini metreye cevirme icin
 
-        System.out.print("Kilonuzu giriniz: ");
+        System.out.print("Kilonuzu giriniz : ");
         double kilo = scanner.nextDouble();
 
         double vke = kilo / (boy * boy);
