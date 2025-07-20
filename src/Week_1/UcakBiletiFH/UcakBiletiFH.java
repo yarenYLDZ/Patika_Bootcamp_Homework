@@ -9,13 +9,13 @@ public class UcakBiletiFH {
 
 
 
-        System.out.printf("Mesafe (km) giriniz : ");
+        System.out.print("Mesafe (km) giriniz : ");
         double mesafe = scanner.nextDouble();
 
-        System.out.printf("Yasinizi giriniz:");
+        System.out.print("Yasinizi giriniz:");
         int yas = scanner.nextInt();
 
-        System.out.printf("Yolculuk tipinizi giriniz (tek yon 1 cift yon 2): ");
+        System.out.print("Yolculuk tipinizi giriniz (tek yon 1 cift yon 2): ");
         int yolculuk_tipi = scanner.nextInt();
 
         if (mesafe <= 0 || yas <= 0 || (yolculuk_tipi != 1 && yolculuk_tipi != 2)) {

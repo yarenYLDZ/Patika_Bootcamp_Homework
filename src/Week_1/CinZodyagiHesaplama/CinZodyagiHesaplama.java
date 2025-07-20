@@ -11,7 +11,7 @@ public class CinZodyagiHesaplama {
         int kalan = dogumYili % 12;
         String burc = "";
 
-        switch (kalan) {
+        switch (kalan){
             case 0: burc = "Maymun"; break;
             case 1: burc = "Horoz"; break;
             case 2: burc = "Köpek"; break;
