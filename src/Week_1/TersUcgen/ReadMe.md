@@ -8,4 +8,4 @@ Java ile kullanıcıdan alınan basamak sayısına göre, yıldızlar (*) kullan
 *****
 ***
 *
-Java ortamında derlenip çalıştırılabilir.
+Java ortamında derlenip çalıştırılabilir. 
