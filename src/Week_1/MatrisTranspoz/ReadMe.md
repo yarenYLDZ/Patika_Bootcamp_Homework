@@ -1,0 +1,2 @@
+Bu Java programı, kullanıcıdan alınan satır ve sütun sayısına göre bir matris oluşturur. Kullanıcı, matrisin her bir elemanını tek tek girdikten sonra, program bu matrisin transpozunu hesaplar. Transpoz işlemi, matrisin satır ve sütunlarının yer değiştirmesiyle yapılır; yani satırlar sütun, sütunlar satır olur. Son olarak hem orijinal matris hem de transpoz hali ekrana düzgün biçimde yazdırılır. Program, çok boyutlu diziler ve iç içe döngüler kullanılarak basit ve anlaşılır bir şekilde tasarlanmıştır.
+
