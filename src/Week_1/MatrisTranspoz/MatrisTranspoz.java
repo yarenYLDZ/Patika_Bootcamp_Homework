@@ -32,12 +32,13 @@ public class MatrisTranspoz {
 
     // Matris yazdırma fonksiyonu
     public static void yazdir(int[][] dizi) {
-        for (int i = 0; i < dizi.length; i++) {
-            for (int j = 0; j < dizi[i].length; j++) {
-                System.out.print(dizi[i][j] + "\t");
+        for (int[] satir : dizi) {
+            for (int eleman : satir) {
+                System.out.print(eleman + "\t");
             }
             System.out.println();
         }
     }
+
 }
 
