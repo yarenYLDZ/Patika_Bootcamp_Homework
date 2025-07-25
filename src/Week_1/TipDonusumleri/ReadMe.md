@@ -1,0 +1,1 @@
+Bu Java programı, kullanıcıdan bir tam sayı ve bir ondalıklı sayı alarak bu sayılar arasında tip dönüşümleri (casting) yapar. Tam sayı double’a dönüştürülerek .0 şeklinde gösterilirken, ondalıklı sayı int’e dönüştürüldüğünde virgülden sonrası atılır. Program, bu dönüşüm sonuçlarını ekrana yazdırarak temel tip dönüşümlerini görsel olarak anlamanızı sağlar.
