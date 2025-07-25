@@ -20,7 +20,7 @@ public class TipDonusumleri {
         System.out.println("Tam sayı (int): " + tamSayi);
         System.out.println("Tam sayınin Ondalıklı hali (double): " + tamSayi);
         System.out.println("Ondalıklı sayı (double): " + ondalikliSayi);
-        System.out.println("Ondalıklı sayinin Tam sayı hali (int): " + ondalikliToInt);
+        System.out.println("Ondalıklı sayinin tam sayı hali (int): " + ondalikliToInt);
 
 
         input.close();
