@@ -16,11 +16,12 @@ public class TipDonusumleri {
         double tamSayiToDouble = (double) tamSayi; // Tam sayıyı ondalıklıya çevirme
         int ondalikliToInt = (int) ondalikliSayi; // Ondalıklıyı tam sayıya çevirme
 
-        System.out.println("Tam sayı (int): " + tamSayi);
-        System.out.println("Tam sayı -> Ondalıklı (double): " + tamSayiToDouble);
 
+        System.out.println("Tam sayı (int): " + tamSayi);
+        System.out.println("Tam sayınin Ondalıklı hali (double): " + tamSayi);
         System.out.println("Ondalıklı sayı (double): " + ondalikliSayi);
-        System.out.println("Ondalıklı -> Tam sayı (int): " + ondalikliToInt);
+        System.out.println("Ondalıklı sayinin Tam sayı hali (int): " + ondalikliToInt);
+
 
         input.close();
     }
