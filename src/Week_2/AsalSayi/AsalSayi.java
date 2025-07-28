@@ -6,7 +6,7 @@ public class AsalSayi {
     public static void main(String[] args) {
         Scanner scanner= new Scanner(System.in);
 
-        System.out.println("Lutfen sayi giriniz: ");
+        System.out.println("Lutfen sayi giriniz : ");
         int girilenSayi = scanner.nextInt();
 
         if (girilenSayi < 2) {
