@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SifreKontrolu {
     public static void main(String[] args) {
         Scanner scanner=new Scanner(System.in);
-        System.out.printf("Sifre giriniz: ");
+        System.out.println("Sifre giriniz: ");
         var sifre = scanner.nextLine();
 
         boolean uzunlukKontrol = sifre.length() >= 8;
