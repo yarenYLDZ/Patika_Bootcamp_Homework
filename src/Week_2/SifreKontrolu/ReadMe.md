@@ -1,0 +1,2 @@
+🔐 Şifre Geçerlilik Kontrolü
+Bu Java programı, kullanıcıdan alınan bir şifrenin geçerli olup olmadığını belirli kurallar çerçevesinde kontrol eder. Şifrenin en az 8 karakter uzunluğunda olması, boşluk içermemesi, ilk harfinin büyük harf olması ve son karakterin ? olması gerekmektedir. Tüm kurallar sağlanıyorsa "Geçerli Şifre", aksi halde "Geçersiz Şifre" mesajı verilir.
