@@ -7,7 +7,7 @@ public class CarpimTablosu {
         Scanner scanner = new Scanner(System.in);
 
         // 1. Kullanıcıdan üst sınır n değerini alir
-        System.out.print("1 ile 10 arasında bir sayı giriniz: ");
+        System.out.print("1 ve 10 arasında bir sayı giriniz: ");
         int n = scanner.nextInt();
 
         // 2. n değeri geçerli aralıkta mı kontrol edilen kisim
