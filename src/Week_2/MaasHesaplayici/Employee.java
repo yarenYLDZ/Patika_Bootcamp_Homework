@@ -60,7 +60,7 @@ public class Employee {
                 "\nVergi : " + vergi +
                 "\nBonus : " + bonus +
                 "\nMaaş Artışı : " + zam +
-                "\nVergi ve Bonuslar ile birlikte maaş : " + vergiVeBonus +
+                "\nVergi ve Bonuslar ile birlikte maaşi : " + vergiVeBonus +
                 "\nToplam Maaş : " + toplamMaas;
 
 
