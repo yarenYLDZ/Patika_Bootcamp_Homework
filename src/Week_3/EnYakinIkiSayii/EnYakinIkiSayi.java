@@ -33,7 +33,7 @@ public class EnYakinIkiSayi {
             }
         }
 
-        System.out.println("Birbirine en yakın iki sayı: " + sayi1 + " ve " + sayi2);
+        System.out.println("Birbirine en yakın iki sayı : " + sayi1 + " ve " + sayi2);
         System.out.println("Farkları: " + minFark);
 
     }
