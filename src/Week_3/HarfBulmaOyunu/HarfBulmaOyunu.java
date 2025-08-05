@@ -15,7 +15,7 @@ public class HarfBulmaOyunu {
             harfListesi.add(String.valueOf(rastgeleHarf));
         }
 
-        System.out.println("Başlangıç Listesi: " + harfListesi);
+        System.out.println("Başlangıç Listesi : " + harfListesi);
 
         // Kullanıcıdan 4 kez harf girişi alınıyor
         for (int i = 0; i < 4; i++) {
