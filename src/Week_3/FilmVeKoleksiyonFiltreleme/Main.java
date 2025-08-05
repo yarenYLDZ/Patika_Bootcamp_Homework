@@ -21,8 +21,10 @@ public class Main {
 
         // Yayın yılına göre sırala
         filmler.sort((f1, f2) -> Integer.compare(f1.getYayinYili(), f2.getYayinYili()));
-        System.out.println("\nYayın yılına göre sıralı:");
+        System.out.println("\nYayın yılına göre sıralı :");
         filmler.forEach(System.out::println);
+
+        filtreleVeYazdir(filmler, "Dram");
 
     }
 

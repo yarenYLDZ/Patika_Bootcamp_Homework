@@ -2,10 +2,10 @@ package Week_3.FilmVeKoleksiyonFiltreleme;
 
 public class Film {
 
-    private String ad;
-    private int yayinYili;
-    private String tur;
-    private double imdbPuani;
+    private final String ad;
+    private final int yayinYili;
+    private final String tur;
+    private final double imdbPuani;
 
     public Film (String ad, int yayinYili, String tur, double imdbPuani){
 
@@ -36,9 +36,9 @@ public class Film {
     public String toString() {
         return "Film{" +
                 "ad='" + ad + '\'' +
-                ", yayinYili=" + yayinYili +
+                ", yayin Yili=" + yayinYili +
                 ", tur='" + tur + '\'' +
-                ", imdbPuani=" + imdbPuani +
+                ", imdb Puani=" + imdbPuani +
                 '}';
     }
 }
