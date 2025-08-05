@@ -29,5 +29,6 @@ public class MinMaxFonk {
         System.out.println("En küçük sayı: " + min);
         System.out.println("En büyük sayı: " + max);
 
+
     }
 }
