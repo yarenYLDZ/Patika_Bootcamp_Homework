@@ -1,4 +1,4 @@
-package Week_3.EnYakinIkiSayii;
+package Week_3.EnYakinIkiSayi;
 
 import java.util.ArrayList;
 import java.util.Collections;
