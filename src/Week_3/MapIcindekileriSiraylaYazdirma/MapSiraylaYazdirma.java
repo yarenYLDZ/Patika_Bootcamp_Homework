@@ -11,7 +11,7 @@ public class MapSiraylaYazdirma {
             Map<String,Integer> scores = new HashMap<>();
 
             // Map'e 5 farklı giriş ekleme
-            scores.put("Ali", 85);
+            scores.put("Aysun", 85);
             scores.put("Ayşe", 92);
             scores.put("Zeynep", 90);
             scores.put("Burak", 88);
