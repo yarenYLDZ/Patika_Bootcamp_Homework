@@ -1,0 +1,3 @@
+Method Reference Ödevi
+
+Bu proje, Java’da Method Reference (::) kullanımını göstermektedir. Normalde bir koleksiyonun elemanlarını yazdırmak için for-each döngüsü veya lambda ifadeleri kullanılabilir. Ancak eğer lambda ifadesi yalnızca mevcut bir metodu çağırıyorsa, bu işlem method reference ile daha kısa ve okunabilir şekilde yapılabilir. Bu ödevde bir listeye eklenen isimler önce geleneksel yöntemle, ardından lambda ile, son olarak da method reference kullanılarak ekrana yazdırılmıştır. Böylece method reference sayesinde kodun nasıl sadeleştiği ve okunabilirliğinin arttığı ortaya konulmuştur.
