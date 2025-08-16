@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Student s1 = new Student("Yaren", "Yildiz", 2001);
+        Student s1 = new Student("Yarenn", "Yildiz", 2001);
         Student s2 = new Student("Aleyna", "Yildiz", 2005);
         Student s3 = new Student("Yaren", "Yildiz", 2001); // s1 ile aynı içerik
 
