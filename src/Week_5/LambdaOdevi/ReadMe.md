@@ -1,0 +1,5 @@
+README
+
+Bu projede Java’da Lambda ifadeleri ve Stream API kullanılarak, bir listenin elemanları üzerinde dönüşüm işlemleri yapılmıştır. Normalde klasik for döngüleri ile her eleman tek tek işlenirken, Lambda ifadeleri sayesinde kod daha kısa, okunabilir ve fonksiyonel bir yapıya kavuşur. Örneğin verilen sayılar listesi önce stream() ile akışa çevrilmiş, ardından map(n -> n * 2) fonksiyonu ile her eleman iki katına çıkarılmış ve son olarak forEach(System.out::println) ile ekrana yazdırılmıştır. Burada map fonksiyonu, listedeki her elemanı dönüştürmek için kullanılır; yani giriş [1,2,3,4,5] iken çıkış [2,4,6,8,10] olur.
+
+Ayrıca, Lambda ifadeleri yalnızca bir metodu çağırıyorsa, System.out::println gibi method reference kullanılarak kod daha da kısaltılabilir. Bu sayede aynı işlem hem Lambda hem de method reference ile yazılabilir. Özetle, bu ödev Lambda ifadelerinin geleneksel döngülere göre sağladığı avantajları ve map gibi fonksiyonel metotların akışlar üzerinde nasıl dönüştürme işlemleri yaptığını göstermektedir.
